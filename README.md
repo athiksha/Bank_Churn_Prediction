@@ -1,6 +1,6 @@
 # Bank_Churn_Prediction
 
-# 🏦 Bank Churn Prediction Project
+# 🏦 Bank Churn Prediction Using Machine Learning 
 
 This project aims to predict customer churn using machine learning models, helping financial institutions better understand customer behavior and reduce attrition. The analysis was done on real-world datasets, with detailed preprocessing, feature selection, and model evaluation steps.
 

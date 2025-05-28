@@ -38,11 +38,6 @@ This project aims to predict customer churn using machine learning models, helpi
 
 ---
 
-## 📁 Folder Structure
-
-
----
-
 ## 👤 Author
 
 **Athiksha Venkannagari**  

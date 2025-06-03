@@ -26,7 +26,7 @@ This project aims to predict customer churn using machine learning models, helpi
   ✅ **Best Result:** Random Forest with **85% Accuracy** and **84% F1-Score**
 
 - 💡 **Insights Discovered:**  
-  Customers who were older, less active, or held fewer products were more likely to churn — providing actionable insights for retention.
+  Customers who were older, less active, or held fewer products were more likely to churn, providing actionable insights for retention.
 
 ---
 
@@ -41,6 +41,5 @@ This project aims to predict customer churn using machine learning models, helpi
 ## 👤 Author
 
 **Athiksha Venkannagari**  
-Graduate Student, Computer Science @ George Mason University  
 📧 athiksha1999@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/athiksha)
